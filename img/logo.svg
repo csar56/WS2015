@@ -15,8 +15,8 @@
    viewBox="0 0 744.09448819 1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="SauerIT Logo.svg"
+   inkscape:version="0.91 r"
+   sodipodi:docname="logo.svg"
    inkscape:export-filename="C:\Users\Christoph Sauer\Desktop\SauerIT Logo.png"
    inkscape:export-xdpi="800"
    inkscape:export-ydpi="800">
@@ -59,8 +59,8 @@
        inkscape:collect="always"
        xlink:href="#linearGradient3357"
        id="linearGradient3363"
-       x1="412.99707"
-       y1="61.508995"
+       x1="129.1055"
+       y1="184.13672"
        x2="416.56055"
        y2="1396.6191"
        gradientUnits="userSpaceOnUse" />
@@ -72,16 +72,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="180.69171"
-     inkscape:cy="543.59967"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="124.1586"
+     inkscape:cy="620.9836"
      inkscape:document-units="px"
-     inkscape:current-layer="g3366"
+     inkscape:current-layer="g3365"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1027"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="1280"
+     inkscape:window-height="740"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -114,7 +114,7 @@
            style="fill:url(#linearGradient3360);fill-opacity:1" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient3363);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:0;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.9;"
            x="288.57144"
            y="789.505"
            id="text3362"
@@ -123,7 +123,7 @@
              id="tspan3364"
              x="288.57144"
              y="789.505"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:750px;font-family:Adamina;-inkscape-font-specification:Adamina;fill:url(#linearGradient3363);fill-opacity:1">s</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:750px;font-family:Adamina;-inkscape-font-specification:Adamina;fill:#000080;fill-opacity:1;">s</tspan></text>
       </g>
     </g>
   </g>
