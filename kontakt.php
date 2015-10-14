@@ -10,8 +10,11 @@
 		<div class="row">
 			<div class="col-md-8 col-md-offset-2">
 				<h1>Christoph Sauer</h1>
-				Rodheimerstraße 28
-				
+				<address>
+				Rodheimerstraße 28<br />
+				35444 Biebertal<br />
+				Handy: <tel>+49 (0) 171-8686473</tel><br />
+				</address>
 			</div>
 		</div>
 	</main>
