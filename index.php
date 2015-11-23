@@ -11,7 +11,7 @@
 			<div class="col-md-8 col-md-offset-2">
 				<article>
 					<h1>Mein Studium</h1>
-					<p>Mein Studium begann im Sommersemester 2014. Zurzeit befinde ihc mich im 4. Semester und besuche die Veranstaltungen
+					Mein Studium begann im Sommersemester 2014. Zurzeit befinde ihc mich im 4. Semester und besuche die Veranstaltungen
 						<ul>
 							<li>IBS</li>
 							<li>DBS</li>
@@ -20,7 +20,6 @@
 						</ul>
 						Meine Betätigungsbereiche im Privatenbereich sind folgende:
 						<img class="img-responsive" src="img/wordle.png" alt="Wordcloud mit Betätigungsbereichen" />
-					</p>
 				</article>
 			</div>
 			<div class="col-md-8 col-md-offset-2">
