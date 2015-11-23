@@ -8,7 +8,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a href="index.php" class="navbar-brand"><img src="img/logo.svg" title="Logo" style="margin-top:-11px;height:64px;"/></a>
+            <a href="index.php" class="navbar-brand" title="Startseite"><img src="img/logo.svg" title="Logo" style="margin-top:-11px;height:64px;" alt="SauerIT-Logo"/></a>
         </div>
         <div id="navbarCollapse" class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
