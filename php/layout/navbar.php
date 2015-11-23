@@ -12,21 +12,20 @@
         </div>
         <div id="navbarCollapse" class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
-                <li><a href="index.php">Start</a></li>
                 <li class="dropdown">
-                    <a data-toggle="dropdown" class="dropdown-toggle" href="#">Meine Webseiten <b class="caret"></b></a>
+                    <a data-toggle="dropdown" class="dropdown-toggle" href="#" title="Dropdown">Meine Webseiten <b class="caret"></b></a>
                     <ul role="menu" class="dropdown-menu">
-                        <li><a href="http://www.bums.fellingshausen.de" title="BuMs Fellinshausen">BuMs Fellingshausen</a></li>
-                        <li><a href="http://www.jf.fellingshausen.de" title="JF Fellingshausen">JF Fellingshausen</a></li>
-						<li><a href="http://www.events.fellingshausen.de">Fell Events</a></li>
+                        <li><a href="http://www.bums.fellingshausen.de" title="Website BuMs Fellinshausen">BuMs Fellingshausen</a></li>
+                        <li><a href="http://www.jf.fellingshausen.de" title="Website JF Fellingshausen">JF Fellingshausen</a></li>
+						<li><a href="http://www.events.fellingshausen.de" title="Website Fellingshausen Events">Fellingshausen Events</a></li>
                     </ul>
                 </li>
 				<li><a href="https://www.codecademy.com/csar56" title="Codecademy Profil">Codecademy</a></li>
-				<li><a href="http://wiki.it-sauer.de" title="Wiki">Wiki</a></li>
-				<li><a href="http://csar-fotografie.de" title="Bildergalerie">Bildergalerie</a></li>
-                <li><a href="about.php" title="&Uuml;ber">&Uuml;ber</a></li>
-                <li><a href="kontakt.php" title="Kontakt">Kontakt</a></li>
-                <li><a href="impressum.php" title="Impressum">Impressum</a>
+				<li><a href="http://wiki.it-sauer.de" title="Privates Wiki">Wiki</a></li>
+				<li><a href="http://csar-fotografie.de" title="Piwigo Bildergalerie">Bildergalerie</a></li>
+                <li><a href="about.php" title="&Uuml;ber diese Website">&Uuml;ber</a></li>
+                <li><a href="kontakt.php" title="Kontakt zu mir">Kontakt</a></li>
+                <li><a href="impressum.php" title="Impressum zu dieser Seite">Impressum</a>
             </ul>
         </div>
     </nav>
