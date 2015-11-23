@@ -23,6 +23,24 @@
 					</p>
 				</article>
 			</div>
+			<div class="col-md-8 col-md-offset-2">
+				<div class="col-md-5">
+					<h1>Codecademy Profil</h1>
+					<a href="https://www.codecademy.com/csar56" title="Codecademy Profil">Hier der Link zu meinem Codecademy Profil</a>
+				</div>
+				<div class="col-md-7">
+					<h1>Git Projekt</h1>
+					<div class="col-md-5">
+						<h2>Mein Profil</h2>
+						<a href="https://github.com/csar56/WS2015" title="Git Projekt">Mein Git Projekt</a>
+					</div>
+					<div class="col-md-7">
+						<h2>Partner</h2>
+						<a href="https://github.com/BlackHawk1912/aperturelabs" title="Partner Projekt">Projekt</a><br />
+						<a href="https://github.com/csar56/aperturelabs" title="Partner Fork">Fork</a><br />
+					</div>
+				</div>
+			</div>
 			<div class="col-md-8 col-md-offset-2 table-responsive">
 				<article>
 				<h1>Aktueller Studenplan</h1>
