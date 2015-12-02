@@ -13,7 +13,7 @@ echo '
 	<div id="navbarCollapse" class="collapse navbar-collapse">
 		<ul class="nav navbar-nav">
 			<li class="dropdown">
-				<a data-toggle="dropdown" class="dropdown-toggle" href="#" title="Dropdown">Meine Webseiten <b class="caret"></b></a>
+				<a data-toggle="dropdown" class="dropdown-toggle" href="#" title="Dropdown">Meine Webseiten <span class="caret"></span></a>
 				<ul role="menu" class="dropdown-menu">
 					<li><a href="http://www.bums.fellingshausen.de" title="Website BuMs Fellinshausen">BuMs Fellingshausen</a></li>
 					<li><a href="http://www.jf.fellingshausen.de" title="Website JF Fellingshausen">JF Fellingshausen</a></li>

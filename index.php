@@ -11,7 +11,8 @@
 			<div class="col-md-8 col-md-offset-2">
 				<article>
 					<h1>Mein Studium</h1>
-					Mein Studium begann im Sommersemester 2014. Zurzeit befinde ihc mich im 4. Semester und besuche die Veranstaltungen
+					Mit meinem Studium habe ihc im Sommersemester 2014 begonnen. vor dem Studium war ich an der TLS in Gießen und habe danach ein halb Jahres Praktikum beim Regierungspräsidium Gießen abgeschlossen.
+					Zur zeit besuche ich folgende Kurse
 						<ul>
 							<li>IBS</li>
 							<li>DBS</li>

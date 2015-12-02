@@ -11,8 +11,8 @@
 			<div class="col-md-8 col-md-offset-2">
 				<article>
 					<h1>Wave Web Accessibility</h1>
-					<p><a href="http://wave.webaim.org/report#/http://csws2015.cloudcontrolled.com" title="WEB Accessibility">Hier kannst ud meine Seite überprüfen</a></p>
-					<img src="http://wave.webaim.org/img/wavelogo.png" class="img-responsive" alt="Wave Logo"/><br />
+					<p><a href="http://wave.webaim.org/report#/http://csws2015.cloudcontrolled.com" title="WEB Accessibility">Hier kannst ud meine Seite überprüfen
+					<img src="http://wave.webaim.org/img/wavelogo.png" class="img-responsive" alt="Wave Logo"/></a><br />
 					<a href="http://www.w3.org/WAI/WCAG2AAA-Conformance"
 					title="Explanation of WCAG 2.0 Level Triple-A Conformance">
 					<img height="32" width="88" 
@@ -27,11 +27,18 @@
 				<form id="searchbox" class="searchbox" action="http://de.wikipedia.org/wiki/Spezial:Suche" name="searchbox">
 					<div class="form-group">
 						<label for="search">Suche:</label>
-						<input  id ="search" tabindex="0" class="form-control" type="text" dir="ltr" size="50" placeholder="Jetzt Suchen!" value="" name="search"></input>
+						<input  id ="search" tabindex="1" class="form-control" type="text" dir="ltr" size="50" placeholder="Jetzt Suchen!" value="" name="search" autofocus></input>
 					</div>
-					<input class="btn btn-default" type="submit" value="Artikel-Suche" name="go"></input>
-					<input class="btn btn-default" type="submit" value="Volltextsuche" name="fulltext"></input>
+					<input class="btn btn-default" type="submit" value="Artikel-Suche" name="go" tabindex="2"></input>
+					<input class="btn btn-default" type="submit" value="Volltextsuche" name="fulltext" tabindex="3"></input>
 				</form>
+				<p><h2>Bemerkung</h2>
+					Das Barierefreie Navigieren per Tastatur hat bei der abgabe bereits funktioniert!<br />
+					CDN wurde nicht in der Aufgabenstellung verlang! Wenn so etwas verlangt wird mujss es schriftlich passieren!<br />
+					Mein Studien Verlauf geht Sie eigentlich nichts an!<br />
+					Die Seite war wegen vorgaben von Bootstrap nicht AAA Konform, da ich ein Dropdown Feld in der Navigation habe, wo von Bootstrap ein <code>b</code> Tag vorgegeben wird!<br />
+					In dem Arbeiten mit GIT sehe ich in IBS keinen Sinn, da so etwas eher etwas für SWT ist und nicht für IBS!<br />
+				</p>
 			</div>
 		</div>
 	</main>
