@@ -34,8 +34,6 @@
 				</form>
 				<p><h2>Bemerkung</h2>
 					Das Barierefreie Navigieren per Tastatur hat bei der abgabe bereits funktioniert!<br />
-					CDN wurde nicht in der Aufgabenstellung verlang! Wenn so etwas verlangt wird mujss es schriftlich passieren!<br />
-					Mein Studien Verlauf geht Sie eigentlich nichts an!<br />
 					Die Seite war wegen vorgaben von Bootstrap nicht AAA Konform, da ich ein Dropdown Feld in der Navigation habe, wo von Bootstrap ein <code>b</code> Tag vorgegeben wird!<br />
 					In dem Arbeiten mit GIT sehe ich in IBS keinen Sinn, da so etwas eher etwas für SWT ist und nicht für IBS!<br />
 				</p>
