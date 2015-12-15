@@ -12,9 +12,7 @@
 				<article>
 					<h1>Wave Web Accessibility</h1>
 					<p><a href="http://wave.webaim.org/report#/http://csws2015.cloudcontrolled.com" title="WEB Accessibility">Hier kannst ud meine Seite überprüfen
-					<img src="http://wave.webaim.org/img/wavelogo.png" class="img-responsive" alt="Wave Logo"/></a><br />
-					<a href="http://www.w3.org/WAI/WCAG2AAA-Conformance"
-					title="Explanation of WCAG 2.0 Level Triple-A Conformance">
+					<img src="http://wave.webaim.org/img/wavelogo.png" class="img-responsive" alt="Wave Logo"/><br />
 					<img height="32" width="88" 
 					src="http://www.w3.org/WAI/wcag2AAA"
 					alt="Level Triple-A conformance, 
