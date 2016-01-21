@@ -7,6 +7,9 @@ function getStats(){
 		return xhr.responseText;
 	}
 }
+function getStatsJSON(){
+	return JSON.parse(getStats());
+}
 
 function writeStats(){
 	/*
@@ -33,7 +36,7 @@ function writeStats(){
 
 function createTable(){
 	var i=0;
-	var stats=JSON.parse(getStats());
+	var json=getStatsJSON();
 	$("#myTable tr").remove(); 
 	var table=document.getElementById("myTable");
 	var header=table.createTHead();
@@ -43,14 +46,45 @@ function createTable(){
 	cell=row.insertCell(1);
 	cell.innerHTML="Wert";
 
-	for(var v in stats){
+	for(var v in json){
 		row=header.insertRow(i++);
 		row.insertCell(0).innerHTML=v;
-		row.insertCell(1).innerHTML=stats[v];
+		row.insertCell(1).innerHTML=json[v];
 		//		console.log(v+': '+stats[v]);
 	}
 }
+
+function createPlot(){
+	/*
+	 * answers
+	 * lectureQuestions
+	 * preparationQuestions
+	 * openSessions
+	 * closedSessions
+	 * creators
+	 * activeUsers
+	 * activeStudents
+	 * loggedinUsers
+	 * interposedQuestions
+	 * conceptQuestions
+	 * questions
+	 * sessions
+	 */
+//	var json=getStatsJSON();
+	var array=[['Android', 60], ['IPhone', 20]];
+	
+	$.jqplot('chartdiv', [array],{
+		series:[{renderer:$.jqplot.BarRenderer}],
+		axes:{
+			xaxis:{
+				renderer: $.jqplot.CategoryAxisRenderer
+			}
+		}
+	});
+}
+
 $(document).ready(function (){
-	createTable();
-	setInterval(createTable, 30000);
+	createPlot();
+//	createTable();
+//	setInterval(createTable, 30000);
 });
