@@ -10,10 +10,11 @@
 	<main class="container-fluid">
 		<div class="row">
 			<div class="col-md-8 col-md-offset-2">
-				<main id="mainpage">
 					<script>writeStats();setInterval(writeStats, 30000);</script>
 					<p id="stats"></p>
-				</main>
+			</div>
+			<div class="col-md-8 col-md-offset-2">
+				<table id="myTable" class="table" border="1"></table>
 			</div>
 		</div>
 	</main>

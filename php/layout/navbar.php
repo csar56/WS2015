@@ -24,6 +24,7 @@ echo '
 			<li><a href="http://wiki.it-sauer.de" title="Privates Wiki">Wiki</a></li>
 			<li><a href="http://csar-fotografie.de" title="Piwigo Bildergalerie">Bildergalerie</a></li>
 			<li><a href="wave.php" title="WEB Accessibility">Wave Check</a></li>
+			<li><a href="ajax.php" title="Ajax Example mit XHR">Ajax Example</a></li>
 			<li><a href="about.php" title="&Uuml;ber diese Website">&Uuml;ber</a></li>
 			<li><a href="kontakt.php" title="Kontakt zu mir">Kontakt</a></li>
 			<li><a href="impressum.php" title="Impressum zu dieser Seite">Impressum</a>
