@@ -6,19 +6,19 @@
 	<script src="js/arsnovastats.js"></script>
 	
 	
-	<!--[if lt IE 9]><script language="javascript" type="text/javascript" src="excanvas.js"></script><![endif]-->
-	<script language="javascript" type="text/javascript" src="bootstrap/jqplot/jquery.jqplot.min.js"></script>
-	<script type="text/javascript" src="bootstrap/jqplot/plugins/jqplot.barRenderer.js"></script>
-	<script type="text/javascript" src="bootstrap/jqplot/plugins/jqplot.pointLabels.js"></script>
-	<link rel="stylesheet" type="text/css" href="bootstrap/jqplot/jquery.jqplot.css" />
+	<script type="text/javascript" src="bootstrap/jqplot/jquery.jqplot.min.js"></script>
+<script type="text/javascript" src="bootstrap/jqplot/plugins/jqplot.barRenderer.min.js"></script>
+<script type="text/javascript" src="bootstrap/jqplot/plugins/jqplot.pieRenderer.min.js"></script>
+<script type="text/javascript" src="bootstrap/jqplot/plugins/jqplot.categoryAxisRenderer.min.js"></script>
+<script type="text/javascript" src="bootstrap/jqplot/plugins/jqplot.pointLabels.min.js"></script>
+<link rel="stylesheet" type="text/css" hrf="bootstrap/jqplot/jquery.jqplot.min.css" />
 </head>
 <body>
 	<?php include('php/layout/navbar.php');?>
 	<main class="container-fluid">
 		<div class="row">
-			<div class="col-md-8 col-md-offset-2">
-					<script></script>
-					<div id="chartdiv" style="height:400px;width:300px; "></div>
+			<div class="col-md-12">
+					<div id="chart1" style="height:600px;width:100%; "></div>
 			</div>
 			<div class="col-md-8 col-md-offset-2">
 				<table id="myTable" class="table" border="1"></table>
